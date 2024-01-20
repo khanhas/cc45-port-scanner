@@ -1,0 +1,22 @@
+{
+  "name": "port_scanner",
+  "version": "0.0.1",
+  "description": "Port scanner - Coding Challenge #45",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [
+    "port",
+    "network",
+    "scanner",
+    "node",
+    "codingchallenge"
+  ],
+  "author": "khanhas",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
